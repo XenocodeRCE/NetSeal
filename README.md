@@ -2,6 +2,10 @@
 
 Hi! This repo is a revamp of **NetSeal**, a well-known licensing system developped by Aeonhack. It is made to cover license-management on your software, providing extra security features. If you want to learn about NetSeal, you can read me. If you want to play with NetSeal, you can look at the public exemples. If you need help, please open an Issue. If you want to contact us, please do at **support [at] netseal [dot] xyz**.
 
+# Where ?! When ?!
+
+This project started in June 2018 and will be released in June 2018. Keep an eye on our up-to-date [project page !](https://github.com/XenocodeRCE/NetSeal/projects)
+
 # Features
 
 Our features are meant to be as simple as possible to use and as safe as possible for your application. We implemented some **Native Protection** on the new NetSeal native Core, **Anti debugging** techniques, **Remote Code Execution** on specific method of your assembly, **Unlimited Server Variables** for you to be able to maximize application dependency over the server, and so much more ... With [NetSeal](https://netseal.xyz/), you have full control over your program.
